@@ -22,7 +22,7 @@ npm install storj-mongo-adapter --save
 Usage
 -----
 
-```
+```js
 var storj = require('storj-lib');
 var MongoStorageAdapter = require('storj-mongo-adapter');
 var mongoose = require('mongoose');
