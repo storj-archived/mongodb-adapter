@@ -1,0 +1,32 @@
+{
+  "name": "storj-mongodb-adapter",
+  "version": "1.0.0",
+  "description": "a storj-lib compatible storage adapter for mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Storj/mongodb-adapter.git"
+  },
+  "keywords": [
+    "storj",
+    "mongodb",
+    "storj-lib"
+  ],
+  "author": "Gordon Hall <gordon@storj.io>",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Storj/mongodb-adapter/issues"
+  },
+  "homepage": "https://github.com/Storj/mongodb-adapter#readme",
+  "dependencies": {
+    "mongoose": "^4.6.1",
+    "storj-lib": "^4.0.0-rc.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
