@@ -16,7 +16,7 @@ Installation
 ------------
 
 ```
-npm install storj-mongo-adapter --save
+npm install storj-mongodb-adapter --save
 ```
 
 Usage
