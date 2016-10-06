@@ -1,6 +1,6 @@
 {
   "name": "storj-mongodb-adapter",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "a storj-lib compatible storage adapter for mongodb",
   "main": "index.js",
   "scripts": {
