@@ -24,7 +24,7 @@
   "dependencies": {
     "storj-lib": "^5.0.0",
     "storj-service-storage-models": "^4.0.0",
-    "mongoose": "4.6.0"
+    "mongoose": "4.3.4"
   },
   "devDependencies": {
     "chai": "^3.5.0",
