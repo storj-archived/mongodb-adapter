@@ -32,7 +32,8 @@
   },
   "devopsBase": {
     "npmLinkDeps": {
-      "storj-lib": "core"
+      "storj-lib": "core",
+      "storj-service-storage-models": "service-storage-models@billing-models"
     }
   }
 }
