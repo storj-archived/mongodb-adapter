@@ -1,6 +1,6 @@
 {
   "name": "storj-mongodb-adapter",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "a storj-lib compatible storage adapter for mongodb",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "homepage": "https://github.com/Storj/mongodb-adapter#readme",
   "dependencies": {
     "storj-lib": "^5.0.0",
-    "storj-service-storage-models": "^4.0.0",
+    "storj-service-storage-models": "^5.0.0",
     "mongoose": "4.3.4"
   },
   "devDependencies": {
