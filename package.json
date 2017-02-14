@@ -1,6 +1,6 @@
 {
   "name": "storj-mongodb-adapter",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "description": "a storj-lib compatible storage adapter for mongodb",
   "main": "index.js",
   "scripts": {
@@ -24,16 +24,10 @@
   "dependencies": {
     "mongoose": "^4.6.7",
     "storj-lib": "^6.0.0",
-    "storj-service-storage-models": "^8.0.0"
+    "storj-service-storage-models": "^8.1.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.0.2"
-  },
-  "devopsBase": {
-    "npmLinkDeps": {
-      "storj-lib": "core",
-      "storj-service-storage-models": "service-storage-models@billing-models"
-    }
   }
 }
