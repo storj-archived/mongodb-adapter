@@ -55,6 +55,14 @@ describe('MongoAdapter', function() {
 
   });
 
+  describe('#flush', function() {
+
+    it('should not throw', function(done) {
+      storage.flush(done);
+    });
+
+  });
+
   after(function(done) {
     storage._model.remove(done);
   });
